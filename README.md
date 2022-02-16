@@ -28,3 +28,9 @@ The course curriculum includes the following technologies and topics mastered by
  5. [real_estate_st_petersburg_project](https://github.com/irasha215/-data_analysis_course/tree/main/real_estate_st_petersburg_project) -- analyzing real estate market of Leningrad Oblast. Prepating data, finding and deleting outliers, finding correlation between price of the flat and different factors
  6. [bank_credits_project](https://github.com/irasha215/-data_analysis_course/tree/main/bank_credits_project) -- project is more about cleaning and preparing data using different methods. 
 
+ ---
+**Feel free to contact me**
+
+telegram: @ira_sha215
+
+e-mail: i.shayakhmetova21@gmail.com
