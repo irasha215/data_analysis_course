@@ -2,7 +2,7 @@ This dataset is from Yandex Praktikum data-analyst course I was taking in 2021/2
 
 Data from an entertainment app:
 
- - culculating marketing metrics(LTV, ROI, CAC, Retention, Converion)
+ - calculating marketing metrics(LTV, ROI, CAC, Retention, Converion)
  - making and analyzing plots
  - finding problematic areas
  - reading and cleaning data
