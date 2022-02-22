@@ -31,6 +31,6 @@ The course curriculum includes the following technologies and topics mastered by
  ---
 **Feel free to contact me**
 
-telegram: @ira_sha215
+telegram: [@ira_sha215](https://t.me/ira_sha215)
 
 e-mail: i.shayakhmetova21@gmail.com
