@@ -33,4 +33,4 @@ The course curriculum includes the following technologies and topics mastered by
 
 telegram: [@ira_sha215](https://t.me/ira_sha215)
 
-e-mail: i.shayakhmetova21@gmail.com
+e-mail: irasha215@gmail.com
