@@ -1,3 +1,5 @@
+# Video games sales analysis
+
 This dataset is from Yandex Praktikum data-analyst course I was taking in 2021/2021.
 
 Dataset contains data about video game sales, user and expert ratings, genres and platforms from 1980 to 2016. What I've been doing:
@@ -9,11 +11,15 @@ The project includes the following steps:
  - statistical hypothesis testing
  - making plots
 
-Using:
+**Using:**
  - pandas
  - matplotlib
  - seaborn
  - numpy
+
+**Status:** finished
+
+**Results:** Review of the global and regional video games markets, data-based business recommendations.
 
  
  ---
