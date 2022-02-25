@@ -19,7 +19,7 @@ The project includes the following steps:
 
 **Status:** finished
 
-**Results:** Review of the global and regional video games markets, data-based business recommendations.
+**Results:** review of the global and regional video games markets, data-based business recommendations.
 
  
  ---
