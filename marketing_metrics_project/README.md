@@ -1,3 +1,5 @@
+# Calculation and analysis of marketing metrics id entertainmet app:
+
 This dataset is from Yandex Praktikum data-analyst course I was taking in 2021/2021.
 
 Data from an entertainment app:
@@ -7,11 +9,15 @@ Data from an entertainment app:
  - finding problematic areas
  - reading and cleaning data
  
- Using: 
+ **Using**: 
   - pandas
   - seaborn
   - matplotlib
   - numpy
+
+**Status:** finished
+
+**Results:** detection of problematic areas in marketing compain, recommendations for business.
 
 ---
 **Feel free to contact me**
