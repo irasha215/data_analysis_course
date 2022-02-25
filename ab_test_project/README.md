@@ -14,6 +14,7 @@ Data from E-commerce business. Due to this project I've been doing:
  - scipy
 
 **Status:** finished
+
 **Results:** A/B test design analysis, recommendations on how to improve, conclusion on success of group B. 
 
 
