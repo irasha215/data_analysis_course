@@ -16,9 +16,7 @@ Using:
  - matplotlib
  - stats
 
- ---
-**Feel free to contact me**
+## Contacts<a name="contacts"></a>
+Telegram: [@ira_sha215](https://t.me/ira_sha215)
 
-telegram: @ira_sha215
-
-e-mail: i.shayakhmetova21@gmail.com
+E-mail: irasha215@gmail.com
