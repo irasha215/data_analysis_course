@@ -19,9 +19,7 @@ Data from an entertainment app:
 
 **Results:** detection of problematic areas in marketing compain, recommendations for business.
 
----
-**Feel free to contact me**
+## Contacts<a name="contacts"></a>
+Telegram: [@ira_sha215](https://t.me/ira_sha215)
 
-telegram: @ira_sha215
-
-e-mail: i.shayakhmetova21@gmail.com
+E-mail: irasha215@gmail.com
