@@ -18,9 +18,7 @@ Data from E-commerce business. Due to this project I've been doing:
 **Results:** A/B test design analysis, recommendations on how to improve, conclusion on success of group B. 
 
 
- ---
-**Feel free to contact me**
+## Contacts<a name="contacts"></a>
+Telegram: [@ira_sha215](https://t.me/ira_sha215)
 
-telegram: @ira_sha215
-
-e-mail: i.shayakhmetova21@gmail.com
+E-mail: irasha215@gmail.com
