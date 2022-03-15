@@ -29,8 +29,7 @@ The course curriculum includes the following technologies and topics mastered by
  6. [bank_credits_project](https://github.com/irasha215/-data_analysis_course/tree/main/bank_credits_project) -- project is more about cleaning and preparing data using different methods. 
 
  ---
-**Feel free to contact me**
+## Contacts<a name="contacts"></a>
+Telegram: [@ira_sha215](https://t.me/ira_sha215)
 
-telegram: [@ira_sha215](https://t.me/ira_sha215)
-
-e-mail: irasha215@gmail.com
+E-mail: irasha215@gmail.com
