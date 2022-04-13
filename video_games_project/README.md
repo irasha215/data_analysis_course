@@ -10,12 +10,16 @@ The project includes the following steps:
  - creating a portrait of the user of each region
  - statistical hypothesis testing
  - making plots
+ - creating the dashboard
+
+**Link to dashboard:** [video_games_tableau](https://public.tableau.com/views/2013-2016_16498390233050/Dashboard12?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 **Using:**
  - pandas
  - matplotlib
  - seaborn
  - numpy
+ - Tableau
 
 **Status:** finished
 
@@ -23,6 +27,6 @@ The project includes the following steps:
 
  
 ## Contacts<a name="contacts"></a>
-Telegram: [@ira_sha215](https://t.me/ira_sha215)
+Telegram: [@irasha215](https://t.me/ira_sha215)
 
 E-mail: irasha215@gmail.com
