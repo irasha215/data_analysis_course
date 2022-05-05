@@ -15,6 +15,14 @@ I separated users' groups based on the time spent in the application, retention 
 
 **Dashboard:** [tableau_dashboard](https://public.tableau.com/app/profile/shayakhmetova.irina/viz/final_project_16509789794970/final_project)
 
+**Steps:**
+- Data cleaning and preprocessing
+- EDA
+- Users' segmentation
+- Calculation of retention rate
+- Statictic tests
+- Making a dashboard
+
 **Using:**
  - pandas
  - seaborn
@@ -33,6 +41,14 @@ I separated users' groups based on the time spent in the application, retention 
 I got data about events, users and marketing events of the mobile app. I analysed results of A/B-test, run statistic tests and gave recommendations. 
 
 **Code:** [ab_mobile](https://github.com/irasha215/data_analysis_course/blob/main/mobile_app_project/mobile_app_ab_test%20(1).ipynb)
+
+**Steps:**
+- Data cleaning and preprocessing
+- EDA
+- Checking the compliance with the terms of reference
+- Making event funnel
+- Calculation od metrics
+- Statistic tests
 
 **Using:**
  - pandas
