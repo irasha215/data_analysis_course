@@ -1,4 +1,4 @@
-# Calculation and analysis of marketing metrics id entertainmet app:
+# Calculation and analysis of marketing metrics of the entertainmet app:
 
 This dataset is from Yandex Praktikum data-analyst course I was taking in 2021/2021.
 
